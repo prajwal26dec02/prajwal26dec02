@@ -1,4 +1,4 @@
-## Hi, I am Prajwal Sharma! Great to see you here! 👋
+## Hi, I am Prajwal ! Great to see you here! 👋
 
 I am Prajwal Sharma , Currently I am Student at JIIT Noida currently in my second year of college. I am learning C++ and Data Structures and Algorithms. My hobbies are drawing, watching anime and Movies.
 
